@@ -11,7 +11,8 @@ Em fase inicial de planejamento e definição de arquitetura.
 ## 🛠️ Tecnologias previstas
 - Python
 - Flask ou Django (framework web)
-- SQL (MySQL, PostgreSQL ou SQLite)
+- Banco de dados relacional (PostgreSQL ou SQLite)
+- ORM (SQLAlchemy ou Django ORM)
 - Pandas
 - Visualização de dados
 - Possível integração com APIs externas
